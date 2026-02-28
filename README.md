@@ -3,6 +3,6 @@
 Este repositorio contiene:
 
 - programa_base.asm → Implementación original
-- programa_optimizado.asm → Versión optimizada para reducir hazards en pipeline MIPS
+- programa_optimizado.asm → Versión optimizada
 
 Autor: Stiven Higuita
