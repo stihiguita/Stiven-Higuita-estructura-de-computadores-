@@ -1,2 +1,8 @@
-# Laboratorio-1-estructura-de-computadores-
-Con este repositorio quiero dar respuesta y entrega al primer laboratorio de estructura de computadores 
+# Laboratorio 1 - Estructura de Computadores
+
+Este repositorio contiene:
+
+- programa_base.asm → Implementación original
+- programa_optimizado.asm → Versión optimizada para reducir hazards en pipeline MIPS
+
+Autor: Stiven Higuita
